@@ -13,6 +13,9 @@
   font-style: normal;
   color: hsl(30, 10%, 34%);
   text-align: center;
+  margin-top:15px;
+  font-size:15px;
+  background-color: hsl(329, 62%, 93%);
 }
 img {
   border-radius: 20px;
