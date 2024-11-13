@@ -5,7 +5,10 @@
   display: flex;
   justify-content: center;
 }
-
+.attribution{
+  display: flex;
+  justify-content: center;
+}
 img {
   border-radius: 20px;
   width: 80%;
